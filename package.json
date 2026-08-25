@@ -1,0 +1,9 @@
+{
+  "name": "cloud-lab3-container",
+  "version": "1.0.0",
+  "description": "LAB 3 Docker GHCR",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
